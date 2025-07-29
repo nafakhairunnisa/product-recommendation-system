@@ -34,3 +34,21 @@ Proyek ini membangun sistem rekomendasi produk e-commerce menggunakan pendekatan
 - TF-IDF & Cosine Similarity (Content-Based Filtering)
 - NLTK & spaCy (Text Preprocessing)
 - Google Colab (Notebook Environment)
+
+## Cara Menjalankan
+Clone repo:
+```
+git clone https://github.com/nafakhairunnisa/product-recommendation-system.git
+```
+Install requirements:
+```
+pip install pandas numpy scikit-learn scipy matplotlib seaborn scikit-surprise spacy nltk
+python -m spacy download en_core_web_sm  # Model bahasa Inggris untuk spaCy
+python -m nltk.download stopwords  # Download stopwords NLTK
+```
+Jalankan notebook:
+```
+jupyter notebook Submission_dari_MLT_Recomendation_System.ipynb
+```
+## Future Work
+Deployment sebagai web service
