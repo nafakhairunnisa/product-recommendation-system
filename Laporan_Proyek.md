@@ -90,10 +90,10 @@ Dengan melakukan Exploratory Data Analysis (EDA) melalui deskripsi variabel dan 
 - Kategori di setiap transaksi bertingkat (memilik hierarki).
 - 'Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables' merupakan category yang paling banyak muncul.
 - Persentase diskon yang paling banyak muncul yaitu 50%, 60%, 0%, 80%, dan 55%. Top 5 distribusi persentase diskon dapat dilihat pada gambar 1.
-![Top 5 distribusi persentase diskon](img\discount_percentage.png)
+![Top 5 distribusi persentase diskon](https://github.com/nafakhairunnisa/product-recommendation-system/blob/main/img/discount_percentage.png?raw=true)
 Gambar 1. Top 5 distribusi persentase diskon
 - Rating yang diberikan paling banyak berada pada rating 4.1, 4.3, 4.2, 4.0, dan 3.9. Artinya kualitas produk baik. Top 5 distribusi rating dapat dilihat pada gambar 2.
-![Top 5 distribusi rating](img\distribusi_rating.png)
+![Top 5 distribusi rating](https://github.com/nafakhairunnisa/product-recommendation-system/blob/main/img/distribusi_rating.png?raw=true)
 Gambar 2. Top 5 distribusi rating
 
 Hasil eksplorasi awal menunjukkan bahwa dataset memiliki struktur hierarkis pada kategori, distribusi diskon yang bervariasi, dan kecenderungan rating yang tinggi, sehingga cocok digunakan untuk membangun sistem rekomendasi berbasis konten maupun interaksi pengguna.
