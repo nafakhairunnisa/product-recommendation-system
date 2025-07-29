@@ -325,6 +325,7 @@ Secara keseluruhan, sistem rekomendasi yang dikembangkan telah berhasil menjawab
 
 [2] Chalista Yulia Hazizah and Triyanna Widiyaningtyas, “Analisis Metode Collaborative Filtering menggunakan KNN dan SVD++ untuk Rekomendasi Produk E-commerce Tokopedia,” EDUMATIC Jurnal Pendidikan Informatika, vol. 8, no. 2, pp. 595–604, Dec. 2024, doi: https://doi.org/10.29408/edumatic.v8i2.27793.
 ‌
+
 [3] Laksono Ridho Cahyo, Angga Lisdiyanto, and Moch Machlul Alamin, "Pengembangan Sistem Rekomendasi Thrifting pada E-Commerce Menggunakan Metode Collaborative Filtering", JATI (Jurnal Mahasiswa Teknik Informatika) - ITN, doi: https://doi.org/10.36040/jati.v9i3.13744
 
 [4] “Amazon Sales Dataset,” www.kaggle.com. https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
