@@ -1,5 +1,9 @@
 # Sistem Rekomendasi Produk E-Commerce dengan Collaborative & Content-Based Filtering
 
+![Gambar Belanja Produk](https://github.com/nafakhairunnisa/product-recommendation-system/blob/main/img/shutter-speed-BQ9usyzHx_w-unsplash.jpg?raw=true)
+Foto oleh Shutter Speed di [Unsplash](https://unsplash.com/id/foto/keranjang-belanja-mainan-BQ9usyzHx_w?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
+      
+
 ## Overview
 Proyek ini membangun sistem rekomendasi produk e-commerce menggunakan pendekatan **collaborative filtering** (SVD++) dan **content-based filtering** (TF-IDF & cosine similarity). Sistem ini bertujuan memberikan saran produk yang relevan bagi pengguna berdasarkan rating, pola pembelian, dan produk yang pernah dibeli sebelumnya.
 
